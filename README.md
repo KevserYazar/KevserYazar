@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 It`s Kevser Yazar
+ 🔭 I’m currently working on DATA ANALYSIS .
 
 <!--
 **KevserYazar/KevserYazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
