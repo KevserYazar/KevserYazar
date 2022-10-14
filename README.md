@@ -1,6 +1,10 @@
 ### Hi there 👋 It`s Kevser Yazar
  🔭 I’m currently working on DATA ANALYSIS .
-
+ 
+ 🌱 I’m currently learning python/deep learning and nlp also working with pycaret 
+ 
+ ⚡ Fun fact: actually I'm a dentist 
+ 
 <!--
 **KevserYazar/KevserYazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
